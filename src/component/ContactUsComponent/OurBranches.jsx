@@ -12,7 +12,7 @@ const OurBranches = () => {
       <div className="flex flex-col lg:flex-row gap-5">
         <div className="flex flex-col items-center lg:items-start">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3571.2426353875685!2d80.29012337536498!3d26.480131478546852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c39cd2394ab3d%3A0x86e54e5902e3adcc!2sCareerkick%20Services%20Kanpur%20%7C%20Best%20IIT-JEE%20%26%20NEET%20Counselling%20Platform!5e0!3m2!1sen!2sin!4v1721710938694!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448194.82162352453!2d77.09323125!3d28.6440836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1723447673136!5m2!1sen!2sin" 
             width="100%"
             height="300"
             allowFullScreen
@@ -28,7 +28,7 @@ const OurBranches = () => {
         </div>
         <div className="flex flex-col items-center lg:items-start">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1795966.6459067168!2d75.06312815624997!3d28.457031399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cc10ed1f824c5%3A0x11e7ad3d3132770e!2sCAREERKICK%20SERVICES%20GR.%20NOIDA!5e0!3m2!1sen!2sin!4v1721711351559!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248849.90089868012!2d77.46612713338561!3d12.953945614765903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1723447807076!5m2!1sen!2sin"
             width="100%"
             height="300"
             allowFullScreen
